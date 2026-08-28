@@ -13,7 +13,7 @@ export function Navbar() {
             AS
           </span>
           <span className="text-lg font-semibold tracking-tight text-soil-900">
-            AgriStack
+            Agri-Track
           </span>
           {demo && <DemoDataBadge label="Demo mode" />}
         </Link>

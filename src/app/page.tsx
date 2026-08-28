@@ -38,7 +38,7 @@ export default function LandingPage() {
         </div>
       </section>
       <footer className="border-t border-soil-100 py-8 text-center text-xs text-soil-600">
-        AgriStack — Prototype build for Smart India Hackathon 2026. Market data shown is sample data.
+        Agri-Track — Prototype build for Smart India Hackathon 2026. Market data shown is sample data.
       </footer>
     </main>
   );

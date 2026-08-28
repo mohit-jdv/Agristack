@@ -124,7 +124,7 @@ export function QueueTicket({
       {/* Ticket stub */}
       <div className="relative overflow-hidden rounded-2xl border-2 border-dashed border-leaf-400 bg-white shadow-sm">
         <div className="bg-leaf-600 px-6 py-3 text-center text-xs font-bold uppercase tracking-widest text-white">
-          AgriStack · Procurement token
+          Agri-Track · Procurement token
         </div>
         <div className="px-6 py-8 text-center">
           <p className="text-xs font-semibold uppercase tracking-wide text-soil-600">

@@ -4,7 +4,7 @@ import { DemoModeBanner } from "@/components/DemoModeBanner";
 import { PreviewHostBridge } from "@/components/preview-host-bridge";
 
 export const metadata: Metadata = {
-  title: "AgriStack — Sell smarter. Earn better.",
+  title: "Agri-Track — Sell smarter. Earn better.",
   description:
     "Agricultural market intelligence that helps farmers decide where to sell their crops and join live procurement queues.",
 };

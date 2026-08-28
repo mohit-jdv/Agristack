@@ -14,7 +14,7 @@ export function Hero() {
             <span className="text-leaf-600">Earn better.</span>
           </h1>
           <p className="mt-5 max-w-md text-lg text-soil-600">
-            AgriStack compares mandis and government procurement centres on price,
+            Agri-Track compares mandis and government procurement centres on price,
             transport cost, waiting time and availability — then tells you the
             option with the highest expected net benefit, not just the highest price. Join a live token queue at recommended procurement centres.
           </p>
